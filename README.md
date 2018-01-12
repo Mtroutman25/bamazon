@@ -1,1 +1,1 @@
-# bamazon
+# Console log to start
